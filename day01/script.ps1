@@ -1,4 +1,4 @@
-$inputText = Get-Content day1\input.txt
+$inputText = Get-Content day01\input.txt
 $sum = 0
 #------ part 2
 $map = [ordered]@{one = "o1e";  two = "t2o"; three = "t3e"; four = "f4r"; five = "f5e"; six = "s6x"; seven = "s7n";  eight = "e8t"; nine = "n9e"}
